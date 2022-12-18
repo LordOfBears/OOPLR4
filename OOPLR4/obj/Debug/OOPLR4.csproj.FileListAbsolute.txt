@@ -1,0 +1,8 @@
+C:\Users\TopUserInTheWorld\source\repos\OOPLR4\OOPLR4\bin\Debug\OOPLR4.exe.config
+C:\Users\TopUserInTheWorld\source\repos\OOPLR4\OOPLR4\bin\Debug\OOPLR4.exe
+C:\Users\TopUserInTheWorld\source\repos\OOPLR4\OOPLR4\bin\Debug\OOPLR4.pdb
+C:\Users\TopUserInTheWorld\source\repos\OOPLR4\OOPLR4\obj\Debug\OOPLR4.csproj.AssemblyReference.cache
+C:\Users\TopUserInTheWorld\source\repos\OOPLR4\OOPLR4\obj\Debug\OOPLR4.csproj.SuggestedBindingRedirects.cache
+C:\Users\TopUserInTheWorld\source\repos\OOPLR4\OOPLR4\obj\Debug\OOPLR4.csproj.CoreCompileInputs.cache
+C:\Users\TopUserInTheWorld\source\repos\OOPLR4\OOPLR4\obj\Debug\OOPLR4.exe
+C:\Users\TopUserInTheWorld\source\repos\OOPLR4\OOPLR4\obj\Debug\OOPLR4.pdb
